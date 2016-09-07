@@ -1,0 +1,98 @@
+[05-Nov-2014 14:48:02 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:48:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:49:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:49:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:50:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:50:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:51:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:51:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:52:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:52:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:53:02 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:53:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:54:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:54:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:55:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:55:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:56:02 UTC] PHP Warning:  require_once(home/cutout/public_html/portal/google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:56:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/cutout/public_html/portal/google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:57:01 UTC] PHP Warning:  require_once(home/cutout/public_html/portal/google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:57:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/cutout/public_html/portal/google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:58:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:58:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:59:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 14:59:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:00:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:00:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:01:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:01:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:02:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:02:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:03:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:03:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:04:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:04:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:05:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:05:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:06:02 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:06:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:07:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:07:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:08:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:08:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:09:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:09:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:10:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:10:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:11:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:11:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:12:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:12:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:13:01 UTC] PHP Warning:  require_once(google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 15:13:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/autoload.php' (include_path='/home/cutout/public_html/portal/google-api-php-client/src') in /home/cutout/cron/coi_cron.php on line 5
+[05-Nov-2014 16:21:28 UTC] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling POST https://www.googleapis.com/upload/drive/v2/files?uploadType=multipart: (500) Internal Error' in /home/cutout/cron/google_api/src/Google/Http/REST.php:76
+Stack trace:
+#0 /home/cutout/cron/google_api/src/Google/Http/REST.php(41): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request))
+#1 /home/cutout/cron/google_api/src/Google/Client.php(548): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home/cutout/cron/google_api/src/Google/Service/Resource.php(190): Google_Client->execute(Object(Google_Http_Request))
+#3 /home/cutout/cron/google_api/src/Google/Service/Drive.php(1770): Google_Service_Resource->call('insert', Array, 'Google_Service_...')
+#4 /home/cutout/cron/google_api/Gdrive.class.php(130): Google_Service_Drive_Files_Resource->insert(Object(Google_Service_Drive_DriveFile), Array)
+#5 /home/cutout/cron/google_api/Gdrive.class.php(93): Gdrive->upload('/home/cutout/pu...', 'from_-_Copy_(6). in /home/cutout/cron/google_api/src/Google/Http/REST.php on line 76
+[06-Nov-2014 13:42:39 UTC] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling POST https://www.googleapis.com/upload/drive/v2/files?uploadType=multipart: (500) Internal Error' in /home/cutout/cron/google_api/src/Google/Http/REST.php:76
+Stack trace:
+#0 /home/cutout/cron/google_api/src/Google/Http/REST.php(41): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request))
+#1 /home/cutout/cron/google_api/src/Google/Client.php(548): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home/cutout/cron/google_api/src/Google/Service/Resource.php(190): Google_Client->execute(Object(Google_Http_Request))
+#3 /home/cutout/cron/google_api/src/Google/Service/Drive.php(1770): Google_Service_Resource->call('insert', Array, 'Google_Service_...')
+#4 /home/cutout/cron/google_api/Gdrive.class.php(130): Google_Service_Drive_Files_Resource->insert(Object(Google_Service_Drive_DriveFile), Array)
+#5 /home/cutout/cron/google_api/Gdrive.class.php(93): Gdrive->upload('/home/cutout/pu...', '18354113_1_P.JP. in /home/cutout/cron/google_api/src/Google/Http/REST.php on line 76
+[07-Nov-2014 12:04:27 UTC] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling POST https://www.googleapis.com/upload/drive/v2/files?uploadType=multipart: (500) Internal Error' in /home/cutout/cron/google_api/src/Google/Http/REST.php:76
+Stack trace:
+#0 /home/cutout/cron/google_api/src/Google/Http/REST.php(41): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request))
+#1 /home/cutout/cron/google_api/src/Google/Client.php(548): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home/cutout/cron/google_api/src/Google/Service/Resource.php(190): Google_Client->execute(Object(Google_Http_Request))
+#3 /home/cutout/cron/google_api/src/Google/Service/Drive.php(1770): Google_Service_Resource->call('insert', Array, 'Google_Service_...')
+#4 /home/cutout/cron/google_api/Gdrive.class.php(130): Google_Service_Drive_Files_Resource->insert(Object(Google_Service_Drive_DriveFile), Array)
+#5 /home/cutout/cron/google_api/Gdrive.class.php(93): Gdrive->upload('/home/cutout/pu...', 'gallery4_-_Copy. in /home/cutout/cron/google_api/src/Google/Http/REST.php on line 76
+[07-Nov-2014 20:03:52 UTC] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling POST https://www.googleapis.com/upload/drive/v2/files?uploadType=multipart: (503) Service Unavailable' in /home/cutout/cron/google_api/src/Google/Http/REST.php:76
+Stack trace:
+#0 /home/cutout/cron/google_api/src/Google/Http/REST.php(41): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request))
+#1 /home/cutout/cron/google_api/src/Google/Client.php(548): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home/cutout/cron/google_api/src/Google/Service/Resource.php(190): Google_Client->execute(Object(Google_Http_Request))
+#3 /home/cutout/cron/google_api/src/Google/Service/Drive.php(1770): Google_Service_Resource->call('insert', Array, 'Google_Service_...')
+#4 /home/cutout/cron/google_api/Gdrive.class.php(130): Google_Service_Drive_Files_Resource->insert(Object(Google_Service_Drive_DriveFile), Array)
+#5 /home/cutout/cron/google_api/Gdrive.class.php(93): Gdrive->upload('/home/cutout/pu...', '256397_1_P. in /home/cutout/cron/google_api/src/Google/Http/REST.php on line 76
+[11-Dec-2014 18:13:09 UTC] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling POST https://www.googleapis.com/upload/drive/v2/files?uploadType=multipart: (500) {
+ "error": {
+  "code": 500,
+  "message": null
+ }
+}
+' in /home/cutout/cron/google_api/src/Google/Http/REST.php:76
+Stack trace:
+#0 /home/cutout/cron/google_api/src/Google/Http/REST.php(41): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request))
+#1 /home/cutout/cron/google_api/src/Google/Client.php(548): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home/cutout/cron/google_api/src/Google/Service/Resource.php(190): Google_Client->execute(Object(Google_Http_Request))
+#3 /home/cutout/cron/google_api/src/Google/Service/Drive.php(1770): Google_Service_Resource->call('insert', Array, 'Google_Service_...')
+#4 /home/cutout/cron/google_api/Gdrive.class.php(130): Google_Service_Drive_Files_Resource->insert(Object(Google_Service_Drive_DriveFile), Array)
+#5 /home/cutout/cron/google_api/Gdrive.class.php(93): Gdrive->upload(' in /home/cutout/cron/google_api/src/Google/Http/REST.php on line 76
